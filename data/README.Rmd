@@ -2,3 +2,7 @@
 # Climate Change Data 
 
 - [National Aeronautics & Space Admin](https://data.giss.nasa.gov/gistemp/)
+
+full data
+
+https://raw.githubusercontent.com/riffomonas/climate_viz/a4feec9e261d17c2d0fb2b00f5a774e5e3d0d11e/data/GLB.Ts%2BdSST.csv
