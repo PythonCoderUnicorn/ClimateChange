@@ -13,3 +13,6 @@ a repo for Climate Change visualizations
 
 ![image](https://user-images.githubusercontent.com/55933131/171075687-387f511e-d37d-4bb8-971b-acc027c3c3d1.png)
 
+
+
+![temperature_lines](https://user-images.githubusercontent.com/55933131/171971563-cd66b52c-6cec-41df-88af-0c72db9271de.png)
